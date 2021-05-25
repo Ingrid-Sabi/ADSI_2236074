@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 /*clase de elemento*/
 h1 {
     font-size: 70px;
